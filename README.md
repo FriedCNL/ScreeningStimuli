@@ -121,7 +121,7 @@ git lfs prune --dry-run
 1. **Enable LFS for your repository on GitHub.** Most repositories have LFS enabled by default.
 2. **Check storage usage:** GitHub provides 1 GB of free LFS storage and 1 GB of bandwidth per month. Additional storage can be purchased as needed.
 
-You can monitor usage via the GitHub repository settings under **Settings > Git LFS**.
+You can monitor usage via the GitHub repository settings under **Settings > [Billing and plans](https://github.com/organizations/FriedCNL/settings/billing/summary)**. 
 
 ## Git-LFS tutorial:
 https://www.atlassian.com/git/tutorials/git-lfs
