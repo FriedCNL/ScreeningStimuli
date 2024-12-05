@@ -102,6 +102,9 @@ git lfs ls-files
 
 You can monitor usage via the GitHub repository settings under **Settings > Git LFS**.
 
+## Git-LFS tutorial:
+https://www.atlassian.com/git/tutorials/git-lfs
+
 ---
 
 
