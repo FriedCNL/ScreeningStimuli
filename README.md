@@ -3,7 +3,7 @@ stimuli for the screening experiment with GalleryManager task
 
 ## Category code in file names:
 
-All stimuli are named with a pattern: `<concept>_id<stimuli_id>_<category_code>.jpb`.
+All stimuli are named with a pattern: `<concept>_id<stimuli_id>_<category_code>.jpg`.
 
 The category code is 6 digits bool variable indicating if the stimuli has:
 ```
