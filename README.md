@@ -87,6 +87,15 @@ List all the files being tracked by LFS:
 git lfs ls-files
 ```
 
+## 7. Delete local Git LFS files
+Delete files from the local Git LFS cache:
+```bash
+git lfs prune
+```
+Test out what effect a prune operation will have:
+```bash
+git lfs prune --dry-run
+```
 ---
 
 ## Best Practices
