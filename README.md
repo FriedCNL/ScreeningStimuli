@@ -1,7 +1,18 @@
 # ScreeningStimuli
 stimuli for the screening experiment with GalleryManager task
 
+## Category code in file names:
 
+All stimuli is named with a pattern: <concept>_id<stimuli_id>_<category_code>.jpb
+The category code is 6 digits bool variable indicating if the stimuli has:
+```
+People
+Animals 
+Buildings 
+Men 
+Women
+Plants 
+```
 
 # How to Use Git LFS to Save Files
 
